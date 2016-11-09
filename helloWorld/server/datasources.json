@@ -1,0 +1,14 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "kumar": {
+    "host": "localhost",
+    "database": "temp",
+    "username": "test",
+    "password": "pgpass",
+    "name": "kumar",
+    "connector": "postgresql"
+  }
+}
